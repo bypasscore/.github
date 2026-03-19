@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://bypasscore.com">
-    <img src="https://raw.githubusercontent.com/bypasscore/netveil/master/docs/netveil-banner.svg" alt="BypassCore" width="500" />
-  </a>
-</p>
-
 <h2 align="center">BypassCore Labs</h2>
 
 <p align="center">
