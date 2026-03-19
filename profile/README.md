@@ -23,8 +23,13 @@ BypassCore has been active since **2017**. Our open-source tools are used by sec
 | Project | Description | Language | Since |
 |---------|-------------|----------|-------|
 | [**bypasscore-sdk**](https://github.com/bypasscore/bypasscore-sdk) | Core hooking engine, memory introspection, PE parsing, and binary analysis primitives — the foundation of everything we build | C++ | 2017 |
+| [**cloakware**](https://github.com/bypasscore/cloakware) | Process injection and memory cloaking research — classic injection, APC, thread hijacking, process hollowing, VEH guard pages, module stomping | C/C++ | 2018 |
+| [**patchwork**](https://github.com/bypasscore/patchwork) | Windows PatchGuard (KPP) analysis — context discovery, timer analysis, integrity check mapping, decryption routines, and kernel driver for live research | C/ASM | 2019 |
 | [**sentinel**](https://github.com/bypasscore/sentinel) | Anti-cheat evasion framework — process hiding, memory protection, driver-level stealth, and signature analysis for EAC, BattlEye, and Vanguard | C/C++ | 2019 |
+| [**spectra**](https://github.com/bypasscore/spectra) | ETW bypass and telemetry evasion — provider enumeration, trace session manipulation, EtwEventWrite patching, and security product telemetry mapping | C++ | 2020 |
 | [**phantom-screen**](https://github.com/bypasscore/phantom-screen) | Screen capture bypass toolkit — GDI BitBlt hooking, DXGI bypass, Windows Graphics Capture evasion, DWM cloaking, and DirectX overlays | C++ | 2021 |
+| [**ironveil**](https://github.com/bypasscore/ironveil) | Casino and iGaming security audit framework — bot detection analysis, behavioral evasion, fingerprint spoofing, and platform integrity testing | Python | 2021 |
+| [**ghostlink**](https://github.com/bypasscore/ghostlink) | Covert C2 communication framework — DNS tunneling, HTTPS beaconing, named pipes, ICMP channels, steganography, and encrypted multi-channel failover | C++ | 2022 |
 | [**netveil**](https://github.com/bypasscore/netveil) | Traffic obfuscation engine with pluggable transports — DPI evasion, HTTP mimicry, TLS fingerprint spoofing, and timing analysis resistance | Rust | 2023 |
 
 ### What We Specialize In
@@ -34,6 +39,10 @@ BypassCore has been active since **2017**. Our open-source tools are used by sec
 - **DPI & Network Evasion** — Protocol obfuscation, traffic shaping, and deep packet inspection bypass
 - **Stealth Networking** — TCP connection hiding, covert channels, and traffic analysis resistance
 - **Hooking & Memory Research** — Inline detours, IAT/VMT hooking, syscall hooks, and memory introspection
+- **ETW & Telemetry Evasion** — Bypassing Event Tracing for Windows, disabling security product telemetry, and EDR evasion research
+- **Process Injection & Memory Cloaking** — Advanced injection techniques, memory permission cycling, module stomping, and PE header wiping
+- **PatchGuard Research** — Windows Kernel Patch Protection analysis, timer identification, context decryption, and integrity check mapping
+- **Covert Communications** — C2 channel research with DNS tunneling, HTTPS beaconing, ICMP channels, and steganographic encoding
 
 ### Get in Touch
 
