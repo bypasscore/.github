@@ -52,6 +52,12 @@ Building on our tools? Need custom research? Looking for enterprise support?
 - **Telegram:** [@bypasscore](https://t.me/bypasscore)
 - **Website:** [bypasscore.com](https://bypasscore.com)
 
+### Support Our Research
+
+Help keep BypassCore open-source and independent.
+
+**USDT (Polygon):** `0xd0f38b51496bee61ea5e9e56e2c414b607ab011a`
+
 ---
 
 <p align="center">
